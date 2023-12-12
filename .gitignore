@@ -1,0 +1,5 @@
+file.log
+__pycache__/
+/output
+venv
+saved_data.json
